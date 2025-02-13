@@ -22,7 +22,7 @@ Set up an IPSec VPN tunnel between the primary and DR servers using FortiGate Fi
 On the Primary server:
 ```bash
 ssh-keygen -t rsa -b 4096
-ssh-copy-id user@dr-server-ip
+ssh-copy-id user@dr-server-private-ip
 ```
 Test the connection:
 ```bash
