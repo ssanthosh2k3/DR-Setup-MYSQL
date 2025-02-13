@@ -162,4 +162,10 @@ SHOW SLAVE STATUS\G;
 
 ---
 
+![Jenkins Job Configuration](https://github.com/ssanthosh2k3/DR-Setup-MYSQL/blob/main/Screenshot%20from%202025-02-13%2016-08-39.png)
+![Jenkins Job Configuration](https://github.com/ssanthosh2k3/DR-Setup-MYSQL/blob/main/Screenshot%20from%202025-02-13%2016-08-46.png)
+![Jenkins Job Configuration](https://github.com/ssanthosh2k3/DR-Setup-MYSQL/blob/main/Screenshot%20from%202025-02-13%2016-09-31.png)
+
+
+
 
